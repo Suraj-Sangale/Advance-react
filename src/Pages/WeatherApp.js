@@ -21,7 +21,7 @@ const WeatherApp = () => {
     fetchData();
   }, []);
   console.log('weatherData',weatherData);
-  const onClick = () =>{//
+  const onClick = () =>{
 console.log('onclick');
 
 
